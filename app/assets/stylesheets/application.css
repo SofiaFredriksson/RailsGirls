@@ -28,3 +28,8 @@ table, td, th {
 th { 
     border-bottom: 1px solid #DDD;
  }
+
+ img {
+     width: 200px;
+     height: 250px;
+ }
